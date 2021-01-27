@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1588765403 source:c:\users\siphesihle\desktop\twoworlds\main.cpp
+	"LibGame.h"
+
+1588765479 c:\users\siphesihle\desktop\twoworlds\libgame.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cassert>
+
+1588765005 source:c:\users\siphesihle\desktop\twoworlds\libguide.cpp
+	"LibGame.h"
+
+1590062468 source:c:\users\thalukanyo\documents\2nd year\cs\two_worlds\libguide.cpp
+	"LibGame.h"
+
+1588883698 c:\users\thalukanyo\documents\2nd year\cs\two_worlds\libgame.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cassert>
+
+1588883698 source:c:\users\thalukanyo\documents\2nd year\cs\two_worlds\main.cpp
+	"LibGame.h"
+

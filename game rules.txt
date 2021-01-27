@@ -1,0 +1,23 @@
+- Two worlds (Hopefully this helps with Practical 7)
+- Ground World - Food items
+- Sky World - Coins
+- Player can move between both worlds
+- The player must collect all items from both worlds.
+
+Initialisation:
+- Elements must at least be one cell radius apart from each other.
+  - Choose number of elements based on size of array.
+  
+- Player must be placed in a random empty location
+  - Player starts in the ground world.
+  
+Movement:
+- Player can move up, down, left, right.
+- Player can also switch worlds.
+- Player cannot move outside of any of the worlds (outside the bounds of the array[s]).
+
+Update:
+- When player moves over a food item or a coin, the player collects it.
+
+End-Game Logic:
+- The game ends when the player collects from both worlds.
